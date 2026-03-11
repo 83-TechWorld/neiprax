@@ -1,3 +1,7 @@
+# NEIPRAX: Name History
+
+We chose NEIPRAX as a portmanteau of "Neiro" (representing sound/color) and "Prana" (the life force), with the "X" adding a futuristic, agentic edge. It perfectly captures your vision of an AI that breathes "Neural Life" into music by understanding its emotional pulse and cultural depth.
+
 # NEIPRAX: Agentic Emotional Music System
 
 NEIPRAX combines a Python FastAPI backend (The Brain) with a Flutter Web frontend designed with a retro Sony Walkman aesthetic.
